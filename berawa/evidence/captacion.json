@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hotel-las-3-campanas-badajoz",
+ "maps": {
+  "fecha": "2026-10-29T14:37:25+01:00",
+  "estado": "LEIDA",
+  "ficha": "Edificio Las Tres Campanas",
+  "nota": 4.2,
+  "coincide": {
+   "tel": true,
+   "web": true
+  },
+  "url": "https://www.google.com/maps/place/Edificio+Las+Tres+Campanas/@38.8802956,-6.9713231,17z/data=!4m9!3m8!1s0xd16e436e8764ffb:0x346549e255a15152!5m2!4m1!1i2!8m2!3d38.8802956!4d-6.9713231!16s%2Fg%2F11c6_dnt1d",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T14:37:25+01:00",
+  "veredicto": "MALA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "HOTEL LAS TRES CAMPANAS SL",
+  "cif": "B06611800",
+  "fuente": "https://hotel3campanas.com/aviso-legal/",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "aviso legal de su web (domicilio C/ Duque San Germán 4, Badajoz); un solo hotel, sin otros establecimientos ni marca de grupo"
+ }
+}
