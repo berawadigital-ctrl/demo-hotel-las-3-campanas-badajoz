@@ -1,0 +1,410 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-las-3-campanas-badajoz",
+ "source_site": "https://hotel3campanas.com/",
+ "source_read_at": "2026-10-30T07:41:20+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitacion",
+     "habitaciones",
+     "dormitorio",
+     "suite",
+     "suites"
+    ],
+    "en": [
+     "room",
+     "rooms",
+     "bedroom",
+     "suite"
+    ],
+    "fr": [
+     "chambre",
+     "chambres",
+     "suite"
+    ],
+    "de": [
+     "zimmer",
+     "suite",
+     "suiten"
+    ]
+   },
+   "a": {
+    "es": "El hotel boutique tiene 15 habitaciones y suites, cuidadosamente diseñadas y decoradas para garantizar un descanso perfecto.",
+    "en": "The boutique hotel has 15 rooms and suites, carefully designed and decorated to guarantee a perfect rest.",
+    "fr": "L'hôtel boutique compte 15 chambres et suites, soigneusement conçues et décorées pour garantir un repos parfait.",
+    "de": "Das Boutique-Hotel hat 15 Zimmer und Suiten, sorgfältig gestaltet und eingerichtet für eine perfekte Erholung."
+   },
+   "sources": [
+    {
+     "url": "https://hotel3campanas.com/hotel/",
+     "quote": "El hotel boutique Las Tres Campanas dispone de 15 habitaciones y suites cuidadosamente diseñadas y decoradas para garantizar un descanso perfecto."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "restaurante",
+   "keys": {
+    "es": [
+     "restaurante",
+     "comer",
+     "cenar",
+     "almorzar",
+     "carta"
+    ],
+    "en": [
+     "restaurant",
+     "dinner",
+     "lunch",
+     "eat",
+     "menu"
+    ],
+    "fr": [
+     "restaurant",
+     "diner",
+     "dejeuner",
+     "manger",
+     "carte"
+    ],
+    "de": [
+     "restaurant",
+     "essen",
+     "abendessen",
+     "mittagessen",
+     "speisekarte"
+    ]
+   },
+   "a": {
+    "es": "El restaurante y el gastrobar abren de 12:30 a 00:00 h. Puedes reservar mesa desde su web (RESERVAR MESA).",
+    "en": "The restaurant and gastrobar are open from 12:30 to 00:00. You can book a table on their website (RESERVAR MESA).",
+    "fr": "Le restaurant et le gastrobar sont ouverts de 12:30 à 00:00. Vous pouvez réserver une table sur leur site (RESERVAR MESA).",
+    "de": "Restaurant und Gastrobar sind von 12:30 bis 00:00 Uhr geöffnet. Einen Tisch reservieren Sie auf der Website (RESERVAR MESA)."
+   },
+   "sources": [
+    {
+     "url": "https://hotel3campanas.com/restaurante/",
+     "quote": "Horario de gastrobar y restaurante 12:30h a 00:00h"
+    },
+    {
+     "url": "https://hotel3campanas.com/restaurante/",
+     "quote": "RESERVAR MESA"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "terraza y piscina",
+   "keys": {
+    "es": [
+     "piscina",
+     "terraza",
+     "chill",
+     "coctel",
+     "vistas"
+    ],
+    "en": [
+     "pool",
+     "swimming",
+     "terrace",
+     "chill",
+     "cocktail",
+     "views"
+    ],
+    "fr": [
+     "piscine",
+     "terrasse",
+     "chill",
+     "cocktail",
+     "vue"
+    ],
+    "de": [
+     "pool",
+     "schwimmbad",
+     "terrasse",
+     "chill",
+     "cocktail",
+     "aussicht"
+    ]
+   },
+   "a": {
+    "es": "Sí: la terraza chill-out del hotel tiene coctelería especializada y piscina, con vistas al casco antiguo y a la frontera con Portugal por Elvas.",
+    "en": "Yes: the hotel's chill-out terrace has a specialist cocktail bar and a pool, with views of the old town and the border with Portugal towards Elvas.",
+    "fr": "Oui : la terrasse chill-out de l'hôtel a un bar à cocktails et une piscine, avec vue sur la vieille ville et la frontière portugaise vers Elvas.",
+    "de": "Ja: Die Chill-out-Terrasse des Hotels hat eine Cocktailbar und einen Pool, mit Blick auf die Altstadt und die Grenze zu Portugal bei Elvas."
+   },
+   "sources": [
+    {
+     "url": "https://hotel3campanas.com/terraza/",
+     "quote": "Con una coctelería especializada y una piscina, es el lugar perfecto para disfrutar de las noches de verano en Badajoz."
+    },
+    {
+     "url": "https://hotel3campanas.com/terraza/",
+     "quote": "incluyendo una vista panorámica de la frontera con Portugal por Elvas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "historia",
+   "keys": {
+    "es": [
+     "historia",
+     "edificio",
+     "siglo",
+     "1899",
+     "ascensor"
+    ],
+    "en": [
+     "history",
+     "building",
+     "century",
+     "1899",
+     "lift",
+     "elevator"
+    ],
+    "fr": [
+     "histoire",
+     "batiment",
+     "siecle",
+     "1899",
+     "ascenseur"
+    ],
+    "de": [
+     "geschichte",
+     "gebaude",
+     "jahrhundert",
+     "1899",
+     "aufzug"
+    ]
+   },
+   "a": {
+    "es": "Es un edificio emblemático de Badajoz construido en 1899 en la plazuela de la Soledad. Acogió la juguetería más antigua de la ciudad y la primera instalación de ascensores en Badajoz.",
+    "en": "It is an emblematic Badajoz building built in 1899 on the plazuela de la Soledad. It housed the oldest toy shop in the city and the first lifts ever installed in Badajoz.",
+    "fr": "C'est un édifice emblématique de Badajoz construit en 1899 sur la plazuela de la Soledad. Il a abrité le plus ancien magasin de jouets de la ville et les premiers ascenseurs de Badajoz.",
+    "de": "Es ist ein markantes Gebäude von Badajoz, 1899 an der Plazuela de la Soledad erbaut. Es beherbergte das älteste Spielwarengeschäft der Stadt und die ersten Aufzüge von Badajoz."
+   },
+   "sources": [
+    {
+     "url": "https://hotel3campanas.com/historia/",
+     "quote": "Las Tres Campanas es un edificio emblemático de Badajoz construido en 1899, situado en la plazuela de la Soledad"
+    },
+    {
+     "url": "https://hotel3campanas.com/historia/",
+     "quote": "la más antigua y emblemática de las jugueterías de Badajoz"
+    },
+    {
+     "url": "https://hotel3campanas.com/historia/",
+     "quote": "Las Tres Campanas acogió la primera instalación de ascensores en Badajoz."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "que visitar",
+   "keys": {
+    "es": [
+     "visitar",
+     "que ver",
+     "monumento",
+     "alcazaba",
+     "turismo"
+    ],
+    "en": [
+     "visit",
+     "sightseeing",
+     "monument",
+     "alcazaba",
+     "see"
+    ],
+    "fr": [
+     "visiter",
+     "monument",
+     "alcazaba",
+     "a voir"
+    ],
+    "de": [
+     "besichtigen",
+     "sehenswurdig",
+     "alcazaba",
+     "denkmal"
+    ]
+   },
+   "a": {
+    "es": "Paseando por el casco antiguo llegas en 4 minutos a la Alcazaba y en 5 a la Torre de Espantaperros. Cerca están la Plaza de España, la Catedral, la Plaza Alta y las Casas Mudéjares.",
+    "en": "Walking through the old town you reach the Alcazaba in 4 minutes and the Torre de Espantaperros in 5. Plaza de España, the Cathedral, Plaza Alta and the Casas Mudéjares are close by.",
+    "fr": "En marchant dans la vieille ville, vous atteignez l'Alcazaba en 4 minutes et la Torre de Espantaperros en 5. La Plaza de España, la cathédrale, la Plaza Alta et les Casas Mudéjares sont tout près.",
+    "de": "Zu Fuß durch die Altstadt erreichen Sie die Alcazaba in 4 und die Torre de Espantaperros in 5 Minuten. Plaza de España, Kathedrale, Plaza Alta und die Casas Mudéjares liegen in der Nähe."
+   },
+   "sources": [
+    {
+     "url": "https://hotel3campanas.com/hotel/",
+     "quote": "a tan solo 4 minutos la Alcazaba más grande de Europa"
+    },
+    {
+     "url": "https://hotel3campanas.com/hotel/",
+     "quote": "a 5 minutos la Torre de Espantaperros"
+    },
+    {
+     "url": "https://hotel3campanas.com/hotel/",
+     "quote": "la Plaza de España, la Catedral, la Plaza Alta, las Casas Mudéjares"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "cafeteria",
+   "keys": {
+    "es": [
+     "cafe",
+     "cerveza",
+     "lounge",
+     "copa"
+    ],
+    "en": [
+     "cafe",
+     "coffee",
+     "beer",
+     "lounge"
+    ],
+    "fr": [
+     "cafe",
+     "biere",
+     "lounge"
+    ],
+    "de": [
+     "cafe",
+     "kaffee",
+     "bier",
+     "lounge"
+    ]
+   },
+   "a": {
+    "es": "Sí, el Café Lounge Bar sirve café, cervezas de bodega Estrella de Galicia, platos gourmet y cócteles.",
+    "en": "Yes, the Café Lounge Bar serves coffee, Estrella de Galicia cellar beers, gourmet dishes and cocktails.",
+    "fr": "Oui, le Café Lounge Bar sert du café, des bières Estrella de Galicia, des plats gourmets et des cocktails.",
+    "de": "Ja, die Café-Lounge-Bar serviert Kaffee, Kellerbier von Estrella de Galicia, Gourmetgerichte und Cocktails."
+   },
+   "sources": [
+    {
+     "url": "https://hotel3campanas.com/restaurante/",
+     "quote": "CAFÉ LOUNGE BAR El lugar ideal para disfrutar de un café, un porfolio de cervezas de bodega Estrella de Galicia acompañada de una amplia variedad de platos gourmet"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "llegar",
+     "mapa"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "get there",
+     "map"
+    ],
+    "fr": [
+     " ou ",
+     "adresse",
+     "situe",
+     "trouve"
+    ],
+    "de": [
+     " wo ",
+     "adresse",
+     "liegt",
+     "anfahrt"
+    ]
+   },
+   "a": {
+    "es": "Está en Plaza Soledad 11, 06001 Badajoz, en pleno casco histórico.",
+    "en": "It is at Plaza Soledad 11, 06001 Badajoz, in the heart of the old town.",
+    "fr": "Il se trouve Plaza Soledad 11, 06001 Badajoz, en pleine vieille ville.",
+    "de": "Es liegt an der Plaza Soledad 11, 06001 Badajoz, mitten in der Altstadt."
+   },
+   "sources": [
+    {
+     "url": "https://hotel3campanas.com/contacto-reservas/",
+     "quote": "Plaza Soledad, 11, 06001 Badajoz"
+    },
+    {
+     "url": "https://hotel3campanas.com/historia/",
+     "quote": "en pleno casco histórico badajocense"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "libre",
+     "fecha"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm",
+     "free room"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "libre",
+     "dates"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig",
+     "termin"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su motor de reservas oficial (botón Reservar) o llamando al 924 29 09 34. Su web avisa de que el formulario de contacto no asegura la reserva. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book in their official booking engine (Book button) or by calling 924 29 09 34. Their website warns that the contact form does not secure a booking. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver dans leur moteur de réservation officiel (bouton Réserver) ou au 924 29 09 34. Leur site précise que le formulaire de contact ne garantit pas la réservation. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die offizielle Buchungsmaschine (Schaltfläche Buchen) oder telefonisch unter 924 29 09 34 buchen. Laut Website sichert das Kontaktformular keine Buchung. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://hotel3campanas.com/",
+     "quote": "RESERVAR ALOJAMIENTO"
+    },
+    {
+     "url": "https://hotel3campanas.com/contacto-reservas/",
+     "quote": "924290934 924 29 09 34"
+    },
+    {
+     "url": "https://hotel3campanas.com/contacto-reservas/",
+     "quote": "Rellenar este formulario no asegura tu reserva del hotel."
+    }
+   ],
+   "cta": true
+  }
+ ]
+}

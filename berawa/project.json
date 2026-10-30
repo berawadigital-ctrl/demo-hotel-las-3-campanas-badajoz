@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-las-3-campanas-badajoz",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-30T07:41:00+01:00",
+ "updated_at": "2026-10-30T07:50:00+01:00",
+ "business": {
+  "name": "Hotel Las 3 Campanas",
+  "legal_name": "HOTEL LAS TRES CAMPANAS SL",
+  "registry_ids": [
+   "CIF B06611800"
+  ],
+  "url": "https://hotel3campanas.com/",
+  "domain": "hotel3campanas.com",
+  "municipality": "Badajoz",
+  "province": "Badajoz",
+  "address": "Plaza Soledad 11 · 06001 Badajoz",
+  "phones": [
+   "924 29 09 34"
+  ],
+  "emails": [
+   "reservas@hotel3campanas.com"
+  ],
+  "sector": "hotel boutique de 4 estrellas con 15 habitaciones y suites en un edificio de 1899 del casco histórico de Badajoz"
+ },
+ "rating": {
+  "value": 4.2,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Edificio+Las+Tres+Campanas/@38.8802956,-6.9713231,17z/data=!4m9!3m8!1s0xd16e436e8764ffb:0x346549e255a15152!5m2!4m1!1i2!8m2!3d38.8802956!4d-6.9713231!16s%2Fg%2F11c6_dnt1d",
+  "date": "2026-10-29T14:37:25+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://hotel3campanas.booking-channel.com/",
+  "note": "motor de reservas real de su web (botón RESERVAR → hotel3campanas.booking-channel.com), HTTP 200 comprobado el 30/10/2026; el motor no tiene URL por idioma, mismo enlace en es/en/fr/de."
+ },
+ "audit_original": {
+  "url": "https://hotel3campanas.com/",
+  "date": "2026-10-30T06:53:58+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}

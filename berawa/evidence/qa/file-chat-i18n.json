@@ -1,0 +1,328 @@
+{
+ "url": "file:///tmp/clon-hotel-las-3-campanas-badajoz/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "El hotel boutique tiene 15 habitaciones y suites, cuidadosamente diseñadas y decoradas para garantizar un descanso perfecto."
+    },
+    {
+     "q": "¿A qué hora abre el restaurante?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "El restaurante y el gastrobar abren de 12:30 a 00:00 h. Puedes reservar mesa desde su web (RESERVAR MESA)."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: la terraza chill-out del hotel tiene coctelería especializada y piscina, con vistas al casco antiguo y a la frontera con Portugal por El"
+    },
+    {
+     "q": "¿Cuál es la historia del edificio?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Es un edificio emblemático de Badajoz construido en 1899 en la plazuela de la Soledad. Acogió la juguetería más antigua de la ciudad y la pr"
+    },
+    {
+     "q": "¿Qué se puede visitar?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Paseando por el casco antiguo llegas en 4 minutos a la Alcazaba y en 5 a la Torre de Espantaperros. Cerca están la Plaza de España, la Cated"
+    },
+    {
+     "q": "¿Hay cafetería?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, el Café Lounge Bar sirve café, cervezas de bodega Estrella de Galicia, platos gourmet y cócteles."
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en Plaza Soledad 11, 06001 Badajoz, en pleno casco histórico."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas oficial (botón Reservar) o llamando al 924 29 09 34. Su web avisa de que el formulario de contacto n"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas oficial (botón Reservar) o llamando al 924 29 09 34. Su web avisa de que el formulario de contacto n"
+    },
+    {
+     "q": "¿Admitís perros?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 924 29 09 34 · reservas@hotel3campanas.com."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 924 29 09 34 · reservas@hotel3campanas.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Tenéis piscina?",
+    "¿A qué hora abre el restaurante?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "svc3",
+    "svc4",
+    "room1_n"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "The boutique hotel has 15 rooms and suites, carefully designed and decorated to guarantee a perfect rest."
+    },
+    {
+     "q": "What time does the restaurant open?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The restaurant and gastrobar are open from 12:30 to 00:00. You can book a table on their website (RESERVAR MESA)."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes: the hotel's chill-out terrace has a specialist cocktail bar and a pool, with views of the old town and the border with Portugal towards"
+    },
+    {
+     "q": "What is the history of the building?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "It is an emblematic Badajoz building built in 1899 on the plazuela de la Soledad. It housed the oldest toy shop in the city and the first li"
+    },
+    {
+     "q": "What can I visit?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Walking through the old town you reach the Alcazaba in 4 minutes and the Torre de Espantaperros in 5. Plaza de España, the Cathedral, Plaza "
+    },
+    {
+     "q": "Is there a café?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, the Café Lounge Bar serves coffee, Estrella de Galicia cellar beers, gourmet dishes and cocktails."
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Plaza Soledad 11, 06001 Badajoz, in the heart of the old town."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book in their official booking engine (Book button) or by calling 924 29 09 34. Their website warns that the contact form does not s"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book in their official booking engine (Book button) or by calling 924 29 09 34. Their website warns that the contact form does not s"
+    },
+    {
+     "q": "Do you allow dogs?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 924 29 09 34 · reservas@hotel3campanas.com."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 924 29 09 34 · reservas@hotel3campanas.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Do you have a swimming pool?",
+    "What time does the restaurant open?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "svc3",
+    "svc4",
+    "room1_n"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "L'hôtel boutique compte 15 chambres et suites, soigneusement conçues et décorées pour garantir un repos parfait."
+    },
+    {
+     "q": "À quelle heure ouvre le restaurant ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Le restaurant et le gastrobar sont ouverts de 12:30 à 00:00. Vous pouvez réserver une table sur leur site (RESERVAR MESA)."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui : la terrasse chill-out de l'hôtel a un bar à cocktails et une piscine, avec vue sur la vieille ville et la frontière portugaise vers El"
+    },
+    {
+     "q": "Quelle est l'histoire du bâtiment ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "C'est un édifice emblématique de Badajoz construit en 1899 sur la plazuela de la Soledad. Il a abrité le plus ancien magasin de jouets de la"
+    },
+    {
+     "q": "Que peut-on visiter ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "En marchant dans la vieille ville, vous atteignez l'Alcazaba en 4 minutes et la Torre de Espantaperros en 5. La Plaza de España, la cathédra"
+    },
+    {
+     "q": "Y a-t-il un café ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, le Café Lounge Bar sert du café, des bières Estrella de Galicia, des plats gourmets et des cocktails."
+    },
+    {
+     "q": "Où se trouve l'hôtel ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il se trouve Plaza Soledad 11, 06001 Badajoz, en pleine vieille ville."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver dans leur moteur de réservation officiel (bouton Réserver) ou au 924 29 09 34. Leur site précise que le formulaire de c"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver dans leur moteur de réservation officiel (bouton Réserver) ou au 924 29 09 34. Leur site précise que le formulaire de c"
+    },
+    {
+     "q": "Acceptez-vous les chiens ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 924 29 09 34 · reservas@hotel3campanas.com."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 924 29 09 34 · reservas@hotel3campanas.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Avez-vous une piscine ?",
+    "À quelle heure ouvre le restaurant ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "svc3"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Das Boutique-Hotel hat 15 Zimmer und Suiten, sorgfältig gestaltet und eingerichtet für eine perfekte Erholung."
+    },
+    {
+     "q": "Wann öffnet das Restaurant?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Restaurant und Gastrobar sind von 12:30 bis 00:00 Uhr geöffnet. Einen Tisch reservieren Sie auf der Website (RESERVAR MESA)."
+    },
+    {
+     "q": "Haben Sie einen Pool?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja: Die Chill-out-Terrasse des Hotels hat eine Cocktailbar und einen Pool, mit Blick auf die Altstadt und die Grenze zu Portugal bei Elvas."
+    },
+    {
+     "q": "Was ist die Geschichte des Gebäudes?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Es ist ein markantes Gebäude von Badajoz, 1899 an der Plazuela de la Soledad erbaut. Es beherbergte das älteste Spielwarengeschäft der Stadt"
+    },
+    {
+     "q": "Was kann man besichtigen?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Zu Fuß durch die Altstadt erreichen Sie die Alcazaba in 4 und die Torre de Espantaperros in 5 Minuten. Plaza de España, Kathedrale, Plaza Al"
+    },
+    {
+     "q": "Gibt es ein Café?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ja, die Café-Lounge-Bar serviert Kaffee, Kellerbier von Estrella de Galicia, Gourmetgerichte und Cocktails."
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Es liegt an der Plaza Soledad 11, 06001 Badajoz, mitten in der Altstadt."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können über die offizielle Buchungsmaschine (Schaltfläche Buchen) oder telefonisch unter 924 29 09 34 buchen. Laut Website sichert das K"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können über die offizielle Buchungsmaschine (Schaltfläche Buchen) oder telefonisch unter 924 29 09 34 buchen. Laut Website sichert das K"
+    },
+    {
+     "q": "Sind Hunde erlaubt?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: 924 29 09 34 · reservas@hotel3campanas.com."
+    },
+    {
+     "q": "Gibt es einen Parkplatz?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: 924 29 09 34 · reservas@hotel3campanas.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Haben Sie einen Pool?",
+    "Wann öffnet das Restaurant?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

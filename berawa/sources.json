@@ -1,0 +1,52 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://hotel3campanas.com/",
+ "read_at": "2026-10-30T07:41:20+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://hotel3campanas.com/",
+   "sha256": "efe9825d79bc9fdf40184235f9bf2200765c2b41ec3ae89a15d229b88ad17db8",
+   "chars": 4675
+  },
+  {
+   "url": "https://hotel3campanas.com/contacto-reservas/",
+   "sha256": "df93b254391aac42c31228119a615d835269c717574617d97658fd3f602bdda9",
+   "chars": 3504
+  },
+  {
+   "url": "https://hotel3campanas.com/historia/",
+   "sha256": "30870499c00287f9599bca8d627831a2415a52de22fbd43bee1256d0ef1ac32b",
+   "chars": 6585
+  },
+  {
+   "url": "https://hotel3campanas.com/hotel/",
+   "sha256": "c3deba9445fabb00207e6cf9eadbed37ed278870cf5877c19f76d0d9115b8e09",
+   "chars": 4850
+  },
+  {
+   "url": "https://hotel3campanas.com/restaurante/",
+   "sha256": "b07d35d4a2779995a54d51574084c054f63125979705ac6b8381ac362de70f85",
+   "chars": 4385
+  },
+  {
+   "url": "https://hotel3campanas.com/terraza/",
+   "sha256": "e3b3785f70d153faf66df0048718fe372ee8662e28856c4d6e4cce8438ce247d",
+   "chars": 3930
+  }
+ ],
+ "other_pages_read": [
+  "https://hotel3campanas.com",
+  "https://hotel3campanas.com/aviso-legal/",
+  "https://hotel3campanas.com/condiciones-del-programa-members-only/",
+  "https://hotel3campanas.com/contacto/",
+  "https://hotel3campanas.com/eventos/",
+  "https://hotel3campanas.com/gastrobar/",
+  "https://hotel3campanas.com/informacion-basica-sobre-proteccion-de-datos/",
+  "https://hotel3campanas.com/members-only/",
+  "https://hotel3campanas.com/personalizar-cookies/",
+  "https://hotel3campanas.com/politica-de-cookies/",
+  "https://hotel3campanas.com/politica-de-privacidad/",
+  "https://hotel3campanas.com/restaurante/reservas-restaurante/"
+ ]
+}
